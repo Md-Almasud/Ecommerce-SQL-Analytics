@@ -1,1 +1,35 @@
+Business Insights Report
 
+- The analysis covers 100 registered customers, 10 products and 27 orders across the available e-commerce dataset.
+
+Executive Summary:-
+
+- The business generated ₹164,919 in total sales value. Sales value was heavily driven by Electronics, while lower-priced products such as Yoga Mats and Cotton T-Shirts generated stronger unit volumes.
+September was the strongest month for completed sales, with ₹30,363 from delivered orders. However, a considerable portion of orders and payment value remained incomplete, making fulfillment and payment conversion important areas to monitor.
+
+Key Findings:-
+
+1. Electronics was the largest revenue-generating category, contributing approximately 70% of total sales value. This was primarily driven by high-value Laptop and Smartphone sales.
+
+2. Yoga Mat was the highest-selling product by quantity with 17 units, followed by Cotton T-Shirt with 16 units and The Alchemist with 14 units. This shows that the products generating the most revenue are not necessarily the products with the highest sales volume.
+
+3. September recorded the highest delivered revenue at ₹30,363, compared with ₹2,396 in August and ₹3,895 in the available October data. The October period is only partial, so it should not be treated as a full-month comparison. Of the 27 total orders, 15 were Delivered, 6 Shipped and 6 Processing. Therefore, approximately 44% of orders were still within the fulfillment pipeline.
+
+4. UPI was the most frequently used payment method, accounting for 14 of 27 payments (approximately 52%), followed by Credit Card and Debit Card.
+
+5. Six payments worth ₹91,881 remained pending. Although the number of pending payments was relatively small, their monetary value was significant because they included high-value purchases.
+
+6. The dataset contains 100 registered customers but only 27 customers placed orders, and no customer placed more than one order during the observed period.
+
+7. Customer reviews were generally positive, with ratings ranging from 3 to 5 stars. However, review volumes per product are small, so the results should be treated as directional rather than definitive measures of customer satisfaction.
+
+Business Recommendations:-
+
+Based on the available data, the business should protect its high-value Electronics segment while continuing to support high-volume products such as Yoga Mats and Cotton T-Shirts.
+Operationally, attention should be given to pending high-value payments and orders that remain in Processing or Shipped status. Monitoring monetary value not just transaction counts will help prioritize the most commercially important unresolved orders.
+Customer retention is another area worth investigating. Since the sample contains no repeat purchasers, future analysis should track repeat purchase rate, customer retention and purchase frequency as more transactional data becomes available.
+
+Conclusion
+
+The analysis shows a business where high-priced Electronics drive sales value, lower-priced products drive unit volume, UPI leads payment usage, and a meaningful amount of value remains tied to incomplete orders and payments.
+The clearest opportunities are to improve completion of high-value transactions, maintain availability of strong-selling products, and develop repeat-customer activity.
